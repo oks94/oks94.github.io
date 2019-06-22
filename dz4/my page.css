@@ -1,9 +1,9 @@
 h1 {
     color:  rgb(23, 115, 36);
     font-size: 50px;
-    font-family: 'Lobster', cursive;
+    font-family: 'Caveat', cursive;
     text-align: center;
-    padding-left: 65px; 
+    padding-left: 60px; 
 }
 H2 {
 color: #1a0e0e;
@@ -23,6 +23,6 @@ text-align: left;
 }
 
 a {color:rgb(23, 115, 36);
-  font-family: 'Roboto', sans-serif;
+    font-family: 'Caveat', cursive;
   font-weight: 500;
   font-size: 25px;
