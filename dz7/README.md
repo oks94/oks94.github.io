@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Карточка товара</title>
+    <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+    <div class="wrap">
+        <div class="card">
+            <div class="inner__img">
+                <img src="img/phone.jpg" alt="">
+            </div>
+            <div class="inner__text">
+                <h2>Наушники Beats</h2>
+                <p>Накладные наушники с микрофоном, поддержка iPhone, регулятор громкости, разъём mini jack 3.5 mm, длина провода 1.361 м, вес 205 г, складная конструкция</p>
+                <p>Цена</p>
+                <p class="cost">1999 р.</p>
+                <input type="button" value="Положить в корзину">
+            </div>
+        </div>
+        <div class="card1">
+            <div class="inner__img">
+                <img src="img/phone.jpg" alt="">
+            </div>
+            <div class="inner__text">
+                <h2>Наушники Beats</h2>
+                <p>Накладные наушники с микрофоном, поддержка iPhone, регулятор громкости, разъём mini jack 3.5 mm, длина провода 1.361 м, вес 205 г, складная конструкция</p>
+                <p>Цена</p>
+                <p class="cost">1999 р.</p>
+                <input type="button" value="Положить в корзину">
+            </div>
+        </div>
+        <div class="card2">
+            <div class="inner__img">
+                <img src="img/phone.jpg" alt="">
+            </div>
+            <div class="inner__text">
+                <h2>Наушники Beats</h2>
+                <p>Накладные наушники с микрофоном, поддержка iPhone, регулятор громкости, разъём mini jack 3.5 mm, длина провода 1.361 м, вес 205 г, складная конструкция</p>
+                <p>Цена</p>
+                <p class="cost">1999 р.</p>
+                <input type="button" value="Положить в корзину">
+            </div>
+        </div>
+        <div class="card3">
+            <div class="inner__img">
+                <img src="img/phone.jpg" alt="">
+            </div>
+            <div class="inner__text">
+                <h2>Наушники Beats</h2>
+                <p>Накладные наушники с микрофоном, поддержка iPhone, регулятор громкости, разъём mini jack 3.5 mm, длина провода 1.361 м, вес 205 г, складная конструкция</p>
+                <p>Цена</p>
+                <p class="cost">1999 р.</p>
+                <input type="button" value="Положить в корзину">
+            </div>
+        </div>
+    </div>
+</body>
+</html>
