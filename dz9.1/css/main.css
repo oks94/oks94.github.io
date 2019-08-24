@@ -1,0 +1,18 @@
+.me_h1{
+    margin-top: 100px;
+}
+
+.p_hide{
+    visibility: hidden;
+    /* display: none; */
+    margin-bottom: 100px;
+}
+
+.bg_nav_me{
+    background-color: rgb(230, 217, 201);
+}
+
+.carousel-control-next-icon, .carousel-control-prev-icon{
+    width: 120px;
+    height: 120px;
+}
