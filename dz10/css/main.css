@@ -1,0 +1,61 @@
+.me_h1{
+    margin-top: 100px;
+}
+
+.p_hide{
+    visibility: hidden;
+    /* display: none; */
+    margin-bottom: 100px;
+}
+
+.bg_nav_me{
+    background-color: rgb(230, 217, 201);
+}
+
+.carousel-control-next-icon, .carousel-control-prev-icon{
+    width: 120px;
+    height: 120px;
+}
+.btn-me {
+    background-color:rgb(77, 75, 61);
+    
+
+}
+h1 {
+    color:  rgb(85, 66, 66);
+    font-size: 50px;
+    font-family:;
+    text-align: center;
+    padding-left: 60px; 
+}
+i {
+    color:  rgb(148, 126, 101);
+    font-size: 20px;
+    font-family:;
+    text-align: 
+    padding-left: 60px; 
+
+}
+
+
+h6 {color:  rgb(255, 255, 255);
+    font-size: 50px;
+    font-family:;
+    text-align: 
+    padding-left: 60px; 
+}
+.h7  {color:  rgb(255, 255, 255);
+    font-size: 50px;
+    font-family:;
+    text-align: 
+    padding-left: 60px; 
+
+
+}
+.h9{color:  rgb(255, 255, 255);
+    font-size: 50px;
+    font-family:;
+    text-align: 
+    padding-left: 60px; 
+}
+
